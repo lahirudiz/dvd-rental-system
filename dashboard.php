@@ -56,7 +56,6 @@ include('sys/dash_img.php');
 				}
 			
 			echo "<tr><td>" . $row['movie_id'] . "</td><td>" . $row['movie_title'] . "</td> <td>" . $row['movie_year'] . "</td> <td>" . $row['movie_rating'] . "</td> <td>Lend</td> </tr>";
-			
 			}
 			
 			echo "</table>";
