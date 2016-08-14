@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <?php
-include('nav.php');
+  include('nav.php');
 ?>
 <title>Dashboard</title>
 <link rel="stylesheet" type="text/css" href="style/profile.css">
