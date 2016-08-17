@@ -38,7 +38,7 @@ mysql_select_db($database,$connection);
         <input type="text" id="user_name" name="user_name" class="form-control" placeholder="Username">
 			<br/>
         <label for="inputPassword" class="sr-only">Password</label>
-        <input type="password" id="password" name="password" class="form-control" placeholder="Password" >
+        <input type="password" id="password" name="password" class="form-control" placeholder="Password">
                         
         <div class="checkbox">
         <label><input type="checkbox" value="remember-me">Remember me</label>
