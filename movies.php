@@ -123,7 +123,7 @@ include('sys/db_conn.php');
 
  <div class="table-responsive">
           
-			  <?php
+		<?php
                 
 				if (isset($_POST['submit']))
 					{
@@ -157,7 +157,7 @@ include('sys/db_conn.php');
 
 				echo "</table>";
 				
-              ?>          
+                ?>          
         
           </div>
 
