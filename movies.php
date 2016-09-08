@@ -12,7 +12,6 @@ include('sys/db_conn.php');
 .container{
     margin-top:30px;
 }
-
 .filter-col{
     padding-left:10px;
     padding-right:10px;
