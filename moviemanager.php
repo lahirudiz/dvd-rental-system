@@ -45,7 +45,6 @@ mysql_select_db($database);
 				echo '<div style="margin-left:100px;">Error! Please check all inputs.</div>';	
 				}
 			}
-
 ?>
 
 </head>
