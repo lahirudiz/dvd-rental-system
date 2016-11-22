@@ -1,3 +1,10 @@
+<?php
+session_start();
+$hostname = "localhost";
+$username = "root";
+$password = "";
+$database = "";
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,15 +27,7 @@
 .btn{margin-left:5px;margin-bottom:5px;}
 </style>	
 
-<?php
-session_start();
-$hostname = "localhost";
-$username = "root";
-$password = "";
-$database = "";
 
-
-?>
 
 </head>
 <body>
