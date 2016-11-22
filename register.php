@@ -21,12 +21,12 @@
 </style>	
 
 <?php
-
+session_start();
 $hostname = "localhost";
 $username = "root";
 $password = "";
-$database = "db_dvd_sys";
-session_start();
+$database = "";
+
 
 ?>
 
